@@ -1,4 +1,4 @@
-name: CI Pipeline
+name: TODOLIST
 
 on:
   pull_request:
